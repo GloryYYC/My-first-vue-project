@@ -1,6 +1,6 @@
 var vm = new Vue({
     el: 'html',
     data: {
-      title: 'Hello world'
+        title: 'Hello world'
     }
-  });
+});
