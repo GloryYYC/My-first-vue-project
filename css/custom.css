@@ -9,16 +9,16 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-h2{float:left; width:100%; color:#fff; margin-bottom:30px; font-size: 14px;}
+h2{float:left; width:100%;     color:#232323; margin-bottom:30px; font-size: 14px;}
 h2 span{font-family: 'Kumar One', cursive; display:block; font-size:45px; text-transform:none; margin-bottom:20px; margin-top:30px;}
-h2 a{color:#fff; font-weight:bold;}
+h2 a{    color:#232323; font-weight:bold;}
 
 
 section{
     
     float:left;
     width:100%;
-    background:  #fafafa;
+    background:  #ffffff;
  /*   background: #43cea2;   fallback for old browsers */
   /* background: -webkit-linear-gradient(to left, #185a9d, #43cea2);Chrome 10-25, Safari 5.1-6 */
 /*background: linear-gradient(to left, #185a9d, #43cea2);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -28,7 +28,7 @@ padding:30px 0;
 .card {
     -moz-box-direction: normal;
     -moz-box-orient: vertical;
-    background-color: #fff;
+    background-color: #fafafa;
     border-radius: 0.25rem;
     display: flex;
     flex-direction: column;
@@ -74,7 +74,8 @@ padding:30px 0;
     font-size:20px;
     font-family: 'Slabo 27px', serif;
     font-weight:bold;
-    color:#3fc199;
+    /* color:#3fc199; */
+    color:#232323;
 }
 .card-block {
     -moz-box-flex: 1;
